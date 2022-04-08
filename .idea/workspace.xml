@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72bdfd19-77ff-4b01-918e-138799955edb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../classwork-8-answer/back-end/sparkDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back-end/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/back-end/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front-end/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/front-end/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-1-answer/src/test/java/handler/GetHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-1-answer/src/test/java/handler/GetHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-1-answer/src/test/java/request/BasicRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-1-answer/src/test/java/request/BasicRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-1/src/test/java/handler/GetHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-1/src/test/java/handler/GetHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-1/src/test/java/request/BasicRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-1/src/test/java/request/BasicRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/.github/classroom/autograding.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/.github/classroom/autograding.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dao/PaymentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/BasePaymentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/BasePaymentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/CashPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/CashPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/CreditCardPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/dto/CreditCardPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/CashPaymentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/CashPaymentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/CreditCardPaymentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/CreditCardPaymentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/GetAllPaymentsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/GetAllPaymentsHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/GetPaymentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/handler/GetPaymentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/main/java/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../homework/homework-2-answer/src/test/java/integrationtests/GetPaymentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../homework/homework-2-answer/src/test/java/integrationtests/GetPaymentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../667/homework-1-answer/server/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../667/homework-1-answer/server/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/default.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/default.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/delete.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/delete.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/filter.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/filter.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/inquiry.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../667/homework-1-answer/tests/inquiry.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../template_creator/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../template_creator/template.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="275ozMlq0zYUSD98kSgSGPMOSTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72bdfd19-77ff-4b01-918e-138799955edb" name="Changes" comment="" />
+      <created>1648619568515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648619568515</updated>
+    </task>
+    <servers />
+  </component>
+</project>
